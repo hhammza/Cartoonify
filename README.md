@@ -1,4 +1,4 @@
-# 🎨 Cartoonify – Image to Cartoon Web App
+# 🎨 Cartoonify: Image to Cartoon Web App
 
 Cartoonify is a **Flask + OpenCV based web application** that allows users to upload an image and instantly convert it into a **cartoon-style image**.
 The app provides a **modern UI**, **live image preview**, **remove image option**, and **download functionality**.
